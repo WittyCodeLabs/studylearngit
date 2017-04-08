@@ -1,7 +1,10 @@
 
 studylearngit
 
+
 hello world
+
+hello stash pop
 
 hello stash
 
