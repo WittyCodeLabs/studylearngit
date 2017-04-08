@@ -1,19 +1,6 @@
 
 studylearngit
 
-hello witty
-hello world ,hello witty code
-
-hi hi hi
-hello hello
-
-hello world
-
-hello stash pop
-
-hello stash
-
-modify update
 
 dev branch add text
 dadaf
