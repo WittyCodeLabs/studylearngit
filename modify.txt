@@ -1,6 +1,7 @@
 
 studylearngit
 
+hello stash 1
 
 dev branch add text
 dadaf
