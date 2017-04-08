@@ -4,5 +4,7 @@ studylearngit
 
 hello stash
 
+modify update
+
 dev branch add text
 dadaf
