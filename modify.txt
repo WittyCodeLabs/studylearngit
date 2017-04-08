@@ -1,12 +1,5 @@
 
 studylearngit
 
-hello stash 2
-has stash 2
-
-hello stash 1
-
-no stash 1
-
 dev branch add text
 dadaf
