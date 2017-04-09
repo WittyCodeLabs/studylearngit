@@ -3,6 +3,8 @@ studylearngit
 modify modify
 modify second
 
+add alias
+
 modify local
 
 hello hello
