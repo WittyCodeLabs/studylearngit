@@ -3,3 +3,6 @@ modify newfile1.txt
 second modify newfile1.txt
 
 hello
+
+new version
+
